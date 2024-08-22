@@ -1,0 +1,36 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+
+header h1 {
+    color: #343a40;
+}
+
+/* Navbar */
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.navbar-nav .nav-link {
+    padding-right: 20px;
+}
+
+.navbar-nav .nav-link i {
+    margin-right: 5px;
+}
+
+
+#message {
+    font-size: 1.2em;
+    font-weight: bold;
+}
